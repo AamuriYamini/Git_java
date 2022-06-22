@@ -9,7 +9,7 @@ Class Sample
 		int d=12:
 
 		
-
+		int dif1=a-b-c;
 		int dif=a-b-c-d;
 
 		System.out.println("difference"+dif);
